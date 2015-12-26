@@ -9,3 +9,4 @@ apm install atom-material-ui atom-material-syntax
 apm install dash
 apm install language-docker
 apm install language-powershell
+apm install keyboard-localization
