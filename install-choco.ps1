@@ -11,6 +11,7 @@ choco install wget
 choco install curl
 choco install git
 choco install rsync
+choco install sudo
 
 # Install other useful binaries.
 choco install ack
@@ -51,6 +52,10 @@ choco install sublimetext3
 choco install packer
 choco install virtualbox
 choco install vagrant
+choco install docker
+choco install docker-machine
+choco install docker-compose
+choco install boot2docker
 
 # Install some entertainment
 choco install spotify
